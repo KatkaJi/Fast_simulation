@@ -1,0 +1,55 @@
+ 
+Epoch: 1390 learn=0.0333101 test=0.0342576                       │[kjirakov@iga2012 train]$                                        
+Epoch: 1400 learn=0.0333043 test=0.0342541                       │                                                                 
+Epoch: 1410 learn=0.0333027 test=0.0342509                       │                                                                 
+Epoch: 1420 learn=0.0332988 test=0.0342503                       │                                                                 
+Epoch: 1430 learn=0.0332942 test=0.0342408                       │                                                                 
+Epoch: 1440 learn=0.0332912 test=0.0342364                       │                                                                 
+Epoch: 1450 learn=0.0332883 test=0.0342313                       │                                                                 
+Epoch: 1460 learn=0.0332858 test=0.0342254                       │                                                                 
+Epoch: 1470 learn=0.033283 test=0.0342244                        │                                                                 
+Epoch: 1480 learn=0.0332794 test=0.0342202                       │                                                                 
+Epoch: 1490 learn=0.033275 test=0.0342205                        │                                                                 
+Epoch: 1499 learn=0.0332724 test=0.0342124                       │                                                                 
+Training done.                                                   │                                                                 
+25_25hi_5000ep_3A_new_moved_random_midwing/nnFunc_25_25hi_1500ep_│                                                                 
+_.h and 25_25hi_5000ep_3A_new_moved_random_midwing/nnFunc_25_25hi│                                                                 
+_1500ep__.cxx created.                                           │                                                                 
+Network with structure: vtxx,vtxy,vtxz,vtxphi,vtxtheta:25:25:@trl│                                                                 
+en                                                               │                                                                 
+inputs with low values in the differences plot may not be needed │                                                                 
+vtxx -> 0.00462945 +/- 0.00270412                                │                                                                 
+vtxy -> 0.00100219 +/- 0.00163168                                │                                                                 
+vtxz -> 0.0354712 +/- 0.0026268                                  │                                                                 
+vtxphi -> 0.278293 +/- 0.219682                                  │                                                                 
+vtxtheta -> 0.00149081 +/- 0.00166774                            │                                                                 
+directory:_midwing  
+
+weight:
+Epoch: 1390 learn=0.0330738 test=0.03401                         │[kjirakov@iga2012 train]$                                        
+Epoch: 1400 learn=0.0330678 test=0.0340086                       │                                                                 
+Epoch: 1410 learn=0.0330652 test=0.0340054                       │                                                                 
+Epoch: 1420 learn=0.0330623 test=0.0340008                       │                                                                 
+Epoch: 1430 learn=0.0330576 test=0.0339957                       │                                                                 
+Epoch: 1440 learn=0.0330545 test=0.0340085                       │                                                                 
+Epoch: 1450 learn=0.033052 test=0.0340128                        │                                                                 
+Epoch: 1460 learn=0.0330501 test=0.0340165                       │                                                                 
+Epoch: 1470 learn=0.0330457 test=0.0340253                       │                                                                 
+Epoch: 1480 learn=0.0330414 test=0.0340129                       │                                                                 
+Epoch: 1490 learn=0.0330362 test=0.0340094                       │                                                                 
+Epoch: 1499 learn=0.033031 test=0.034                            │                                                                 
+Training done.                                                   │                                                                 
+25_25hi_5000ep_3A_new_moved_random_midwing/nnFunc_25_25hi_1500ep_│                                                                 
+weight.h and 25_25hi_5000ep_3A_new_moved_random_midwing/nnFunc_25│                                                                 
+_25hi_1500ep_weight.cxx created.                                 │                                                                 
+Network with structure: vtxx,vtxy,vtxz,vtxphi,vtxtheta:25:25:@trl│                                                                 
+en                                                               │                                                                 
+inputs with low values in the differences plot may not be needed │                                                                 
+vtxx -> 0.00462712 +/- 0.00297183                                │                                                                 
+vtxy -> 0.00113567 +/- 0.00234619                                │                                                                 
+vtxz -> 0.0354299 +/- 0.00301761                                 │                                                                 
+vtxphi -> 0.277372 +/- 0.218915                                  │                                                                 
+vtxtheta -> 0.00156302 +/- 0.00164959                            │                                                                 
+directory:_midwing
+
+weight:

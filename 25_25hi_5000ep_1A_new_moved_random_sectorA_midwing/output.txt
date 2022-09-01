@@ -1,0 +1,26 @@
+ 
+Epoch: 5890 learn=0.125857 test=0.129196                         │Epoch: 5890 learn=0.104552 test=0.106169                         
+Epoch: 5900 learn=0.125736 test=0.129118                         │Epoch: 5900 learn=0.10444 test=0.10617                           
+Epoch: 5910 learn=0.125714 test=0.129045                         │Epoch: 5910 learn=0.104401 test=0.106067                         
+Epoch: 5920 learn=0.125665 test=0.128996                         │Epoch: 5920 learn=0.104365 test=0.10606                          
+Epoch: 5930 learn=0.125611 test=0.128929                         │Epoch: 5930 learn=0.10432 test=0.105956                          
+Epoch: 5940 learn=0.125544 test=0.128859                         │Epoch: 5940 learn=0.104278 test=0.1059                           
+Epoch: 5950 learn=0.125473 test=0.128788                         │Epoch: 5950 learn=0.10424 test=0.105849                          
+Epoch: 5960 learn=0.125405 test=0.128736                         │Epoch: 5960 learn=0.104199 test=0.105751                         
+Epoch: 5970 learn=0.125344 test=0.128711                         │Epoch: 5970 learn=0.104151 test=0.10577                          
+Epoch: 5980 learn=0.125289 test=0.128629                         │Epoch: 5980 learn=0.104098 test=0.105735                         
+Epoch: 5990 learn=0.12523 test=0.128539                          │Epoch: 5990 learn=0.104066 test=0.105673                         
+Epoch: 5999 learn=0.125152 test=0.128475                         │Epoch: 5999 learn=0.104012 test=0.105634                         
+Training done.                                                   │Training done.                                                   
+25_25hi_5000ep_1A_new_moved_random_sectorA_midwing/nnFunc_25_25hi│25_25hi_5000ep_1A_new_moved_random_sectorB_midwing/nnFunc_25_25hi
+_6000ep_weight.h and 25_25hi_5000ep_1A_new_moved_random_sectorA_m│_6000ep_weight.h and 25_25hi_5000ep_1A_new_moved_random_sectorB_m
+idwing/nnFunc_25_25hi_6000ep_weight.cxx created.                 │idwing/nnFunc_25_25hi_6000ep_weight.cxx created.                 
+Network with structure: vtxx,vtxy,vtxz,vtxphi,vtxtheta:25:25:@trl│Network with structure: vtxx,vtxy,vtxz,vtxphi,vtxtheta:25:25:@trl
+en                                                               │en                                                               
+inputs with low values in the differences plot may not be needed │inputs with low values in the differences plot may not be needed 
+vtxx -> 0.00773791 +/- 0.00922886                                │vtxx -> 0.00860739 +/- 0.0138887                                 
+vtxy -> 0.0499801 +/- 0.0650445                                  │vtxy -> 0.0671817 +/- 0.116615                                   
+vtxz -> 0.078308 +/- 0.0888909                                   │vtxz -> 0.0901172 +/- 0.140284                                   
+vtxphi -> 0.573062 +/- 0.410117                                  │vtxphi -> 0.639505 +/- 0.481597                                  
+vtxtheta -> 0.0379531 +/- 0.0409778                              │vtxtheta -> 0.0472783 +/- 0.0686188                              
+directory:_sectorA_midwing

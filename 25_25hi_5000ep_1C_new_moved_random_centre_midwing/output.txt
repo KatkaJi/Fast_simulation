@@ -1,0 +1,54 @@
+ 
+								      toto:
+								  │Epoch: 1390 learn=0.0659091 test=0.0630605                       
+Epoch: 1170 learn=0.105924 test=0.110201                         │Epoch: 1400 learn=0.0658921 test=0.0630363                       
+Epoch: 1180 learn=0.105837 test=0.11011                          │Epoch: 1410 learn=0.0658836 test=0.0630294                       
+Epoch: 1190 learn=0.105652 test=0.109936                         │Epoch: 1420 learn=0.0658784 test=0.06303                         
+Epoch: 1200 learn=0.105523 test=0.109816                         │Epoch: 1430 learn=0.0658695 test=0.0630141                       
+Epoch: 1210 learn=0.105437 test=0.109741                         │Epoch: 1440 learn=0.0658628 test=0.0630068                       
+Epoch: 1220 learn=0.105302 test=0.109628                         │Epoch: 1450 learn=0.065858 test=0.0630041                        
+Epoch: 1230 learn=0.105213 test=0.109522                         │Epoch: 1460 learn=0.0658504 test=0.0630034                       
+Epoch: 1240 learn=0.105108 test=0.109413                         │Epoch: 1470 learn=0.0658462 test=0.0630014                       
+Epoch: 1250 learn=0.105015 test=0.109305                         │Epoch: 1480 learn=0.0658385 test=0.0629932                       
+Epoch: 1260 learn=0.104916 test=0.109208                         │Epoch: 1490 learn=0.065829 test=0.0629872                        
+Epoch: 1270 learn=0.104847 test=0.109153                         │Epoch: 1499 learn=0.0658162 test=0.0629786                       
+Epoch: 1280 learn=0.104709 test=0.109033                         │Training done.                                                   
+Epoch: 1290 learn=0.104554 test=0.108889                         │25_25hi_5000ep_1C_new_moved_random_centre_midwing/nnFunc_25_25hi_
+Epoch: 1300 learn=0.104399 test=0.108753                         │1500ep__.h and 25_25hi_5000ep_1C_new_moved_random_centre_midwing/
+Epoch: 1310 learn=0.104337 test=0.108709                         │nnFunc_25_25hi_1500ep__.cxx created.                             
+Epoch: 1320 learn=0.104215 test=0.108593                         │Network with structure: vtxx,vtxy,vtxz,vtxphi,vtxtheta:25:25:@trl
+Epoch: 1330 learn=0.10412 test=0.108506                          │en                                                               
+Epoch: 1340 learn=0.104017 test=0.108388                         │inputs with low values in the differences plot may not be needed 
+Epoch: 1350 learn=0.103906 test=0.108261                         │vtxx -> 0.0110481 +/- 0.00258424                                 
+Epoch: 1360 learn=0.10381 test=0.108217                          │vtxy -> 0.00192745 +/- 0.00261399                                
+Epoch: 1370 learn=0.103709 test=0.108128                         │vtxz -> 0.103278 +/- 0.00433035                                  
+Epoch: 1380 learn=0.103557 test=0.108028                         │vtxphi -> 0.293205 +/- 0.177078                                  
+Epoch: 1390 learn=0.103464 test=0.107924                         │vtxtheta -> 0.00131309 +/- 0.00129302                            
+Epoch: 1400 learn=0.103348 test=0.107836                         │directory:_centre_midwing
+
+weight:
+                        │Epoch: 1390 learn=0.0659026 test=0.0630406                       
+Epoch: 2380 learn=0.0952532 test=0.100839                        │Epoch: 1400 learn=0.0658946 test=0.0630312                       
+Epoch: 2390 learn=0.0951935 test=0.100798                        │Epoch: 1410 learn=0.0658876 test=0.0630276                       
+Epoch: 2400 learn=0.0951395 test=0.100792                        │Epoch: 1420 learn=0.0658845 test=0.0630191                       
+Epoch: 2410 learn=0.0951175 test=0.100757                        │Epoch: 1430 learn=0.06588 test=0.063017                          
+Epoch: 2420 learn=0.0950972 test=0.100738                        │Epoch: 1440 learn=0.0658768 test=0.0630094                       
+Epoch: 2430 learn=0.0950705 test=0.100728                        │Epoch: 1450 learn=0.0658713 test=0.0630066                       
+Epoch: 2440 learn=0.0950354 test=0.100709                        │Epoch: 1460 learn=0.0658685 test=0.0630055                       
+Epoch: 2450 learn=0.0950055 test=0.100653                        │Epoch: 1470 learn=0.0658639 test=0.0630039                       
+Epoch: 2460 learn=0.0949652 test=0.100623                        │Epoch: 1480 learn=0.0658599 test=0.0630072                       
+Epoch: 2470 learn=0.0949142 test=0.100564                        │Epoch: 1490 learn=0.065851 test=0.0629974                        
+Epoch: 2480 learn=0.094885 test=0.100545                         │Epoch: 1499 learn=0.0658441 test=0.0629945                       
+Epoch: 2490 learn=0.0948407 test=0.100521                        │Training done.                                                   
+Epoch: 2500 learn=0.0947777 test=0.100449                        │25_25hi_5000ep_1C_new_moved_random_centre_midwing/nnFunc_25_25hi_
+Epoch: 2510 learn=0.0947555 test=0.100443                        │1500ep_weight.h and 25_25hi_5000ep_1C_new_moved_random_centre_mid
+Epoch: 2520 learn=0.0947331 test=0.100422                        │wing/nnFunc_25_25hi_1500ep_weight.cxx created.                   
+Epoch: 2530 learn=0.0947122 test=0.100397                        │Network with structure: vtxx,vtxy,vtxz,vtxphi,vtxtheta:25:25:@trl
+Epoch: 2540 learn=0.0946863 test=0.100382                        │en                                                               
+Epoch: 2550 learn=0.0946603 test=0.100353                        │inputs with low values in the differences plot may not be needed 
+Epoch: 2560 learn=0.0946252 test=0.10032                         │vtxx -> 0.0107055 +/- 0.00143937                                 
+Epoch: 2570 learn=0.0945907 test=0.100326                        │vtxy -> 0.00207554 +/- 0.00261978                                
+Epoch: 2580 learn=0.0945604 test=0.100281                        │vtxz -> 0.103527 +/- 0.00426845                                  
+Epoch: 2590 learn=0.0945323 test=0.100255                        │vtxphi -> 0.293565 +/- 0.175135                                  
+Epoch: 2600 learn=0.0944181 test=0.10012                         │vtxtheta -> 0.00125626 +/- 0.00131273                            
+Epoch: 2610 learn=0.0943784 test=0.100084                        │directory:_centre_midwing

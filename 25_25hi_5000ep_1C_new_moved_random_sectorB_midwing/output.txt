@@ -1,0 +1,141 @@
+ 
+Epoch: 2350 learn=0.163528 test=0.16641
+Epoch: 2360 learn=0.163287 test=0.166266
+Epoch: 2370 learn=0.162982 test=0.165969
+Epoch: 2380 learn=0.162538 test=0.165496
+Epoch: 2390 learn=0.162184 test=0.165141
+Epoch: 2400 learn=0.161772 test=0.164776
+Epoch: 2410 learn=0.161703 test=0.164722
+Epoch: 2420 learn=0.161462 test=0.16451
+Epoch: 2430 learn=0.161214 test=0.164246
+Epoch: 2440 learn=0.160823 test=0.163883
+Epoch: 2450 learn=0.16054 test=0.163592
+Epoch: 2460 learn=0.160263 test=0.163244
+Epoch: 2470 learn=0.159999 test=0.163063
+Epoch: 2480 learn=0.159697 test=0.162601
+Epoch: 2490 learn=0.159369 test=0.162387
+Epoch: 2500 learn=0.158732 test=0.161814
+Epoch: 2510 learn=0.158567 test=0.161505
+Epoch: 2520 learn=0.158307 test=0.161182
+Epoch: 2530 learn=0.157966 test=0.160857
+Epoch: 2540 learn=0.157669 test=0.160575
+Epoch: 2550 learn=0.157361 test=0.160243
+Epoch: 2560 learn=0.156995 test=0.160016
+Epoch: 2570 learn=0.156578 test=0.159589
+Epoch: 2580 learn=0.156128 test=0.159149
+Epoch: 2590 learn=0.155776 test=0.158744
+Epoch: 2600 learn=0.155239 test=0.158263
+Epoch: 2610 learn=0.155103 test=0.158078
+Epoch: 2620 learn=0.154906 test=0.157832
+Epoch: 2630 learn=0.154633 test=0.157655
+Epoch: 2640 learn=0.154179 test=0.157037
+Epoch: 2650 learn=0.153921 test=0.156747
+Epoch: 2660 learn=0.153608 test=0.156395
+Epoch: 2670 learn=0.153291 test=0.155936
+Epoch: 2680 learn=0.152947 test=0.155533
+Epoch: 2690 learn=0.152382 test=0.154932
+Epoch: 2700 learn=0.151853 test=0.154423
+Epoch: 2710 learn=0.151759 test=0.154352
+Epoch: 2720 learn=0.151402 test=0.153937
+Epoch: 2730 learn=0.151073 test=0.153513
+Epoch: 2740 learn=0.150785 test=0.153384
+Epoch: 2750 learn=0.150442 test=0.153031
+Epoch: 2760 learn=0.150197 test=0.152925
+Epoch: 2770 learn=0.149966 test=0.152702
+Epoch: 2780 learn=0.149715 test=0.152352
+Epoch: 2790 learn=0.149354 test=0.151995
+Epoch: 2800 learn=0.149092 test=0.151739
+Epoch: 2810 learn=0.149037 test=0.151695
+Epoch: 2820 learn=0.148804 test=0.151409
+Epoch: 2830 learn=0.148563 test=0.151221
+Epoch: 2840 learn=0.148374 test=0.150974
+Epoch: 2850 learn=0.148093 test=0.150738
+Epoch: 2860 learn=0.147858 test=0.150538
+Epoch: 2870 learn=0.147559 test=0.150021
+Epoch: 2880 learn=0.14719 test=0.149585
+Epoch: 2890 learn=0.146794 test=0.149128
+Epoch: 2900 learn=0.146457 test=0.148669
+Epoch: 2910 learn=0.146323 test=0.148611
+Epoch: 2920 learn=0.14607 test=0.148398
+Epoch: 2930 learn=0.14581 test=0.148089
+Epoch: 2940 learn=0.145544 test=0.14786
+Epoch: 2950 learn=0.145324 test=0.147721
+Epoch: 2960 learn=0.1451 test=0.147527
+Epoch: 2970 learn=0.144894 test=0.14727
+Epoch: 2980 learn=0.144758 test=0.147175
+Epoch: 2990 learn=0.144569 test=0.146929
+Epoch: 2999 learn=0.144305 test=0.146734
+Training done.
+25_25hi_5000ep_1C_new_moved_random_sectorB_midwing/nnFunc_25_25hi_3000ep__.h and 25_25hi_5000ep_1C_new_moved_random_sectorB_midwing/nnFunc_25_25hi_3000ep__.cxx created.
+Network with structure: vtxx,vtxy,vtxz,vtxphi,vtxtheta:25:25:@trlen
+inputs with low values in the differences plot may not be needed
+vtxx -> 0.00777396 +/- 0.00782516
+vtxy -> 0.0467891 +/- 0.0473853
+vtxz -> 0.0751526 +/- 0.050818
+vtxphi -> 0.475186 +/- 0.33123
+vtxtheta -> 0.0264292 +/- 0.0227073
+Info in <TCanvas::Print>: png file 25_25hi_5000ep_1C_new_moved_random_sectorB_midwing/analysis_.png has been created
+directory:_sectorB_midwing
+
+weight:
+Epoch: 5510 learn=0.118697 test=0.119186
+Epoch: 5520 learn=0.118678 test=0.11915
+Epoch: 5530 learn=0.118595 test=0.119038
+Epoch: 5540 learn=0.118514 test=0.118952
+Epoch: 5550 learn=0.11843 test=0.118889
+Epoch: 5560 learn=0.118354 test=0.118836
+Epoch: 5570 learn=0.118252 test=0.118857
+Epoch: 5580 learn=0.118114 test=0.118773
+Epoch: 5590 learn=0.11801 test=0.118621
+Epoch: 5600 learn=0.117796 test=0.118436
+Epoch: 5610 learn=0.117767 test=0.118379
+Epoch: 5620 learn=0.117666 test=0.118333
+Epoch: 5630 learn=0.117538 test=0.118302
+Epoch: 5640 learn=0.117453 test=0.118233
+Epoch: 5650 learn=0.117332 test=0.118063
+Epoch: 5660 learn=0.117257 test=0.117938
+Epoch: 5670 learn=0.117203 test=0.117902
+Epoch: 5680 learn=0.117113 test=0.117883
+Epoch: 5690 learn=0.117008 test=0.117832
+Epoch: 5700 learn=0.11679 test=0.117578
+Epoch: 5710 learn=0.116774 test=0.117559
+Epoch: 5720 learn=0.116721 test=0.117541
+Epoch: 5730 learn=0.116652 test=0.117489
+Epoch: 5740 learn=0.116584 test=0.117387
+Epoch: 5750 learn=0.116523 test=0.117297
+Epoch: 5760 learn=0.116466 test=0.117246
+Epoch: 5770 learn=0.116389 test=0.117184
+Epoch: 5780 learn=0.116273 test=0.117157
+Epoch: 5790 learn=0.116138 test=0.117062
+Epoch: 5800 learn=0.116018 test=0.116918
+Epoch: 5810 learn=0.116002 test=0.116927
+Epoch: 5820 learn=0.11595 test=0.116885
+Epoch: 5830 learn=0.115855 test=0.116837
+Epoch: 5840 learn=0.115763 test=0.116749
+Epoch: 5850 learn=0.115697 test=0.116654
+Epoch: 5860 learn=0.11562 test=0.116531
+Epoch: 5870 learn=0.11555 test=0.116537
+Epoch: 5880 learn=0.115478 test=0.116484
+Epoch: 5890 learn=0.115388 test=0.116348
+Epoch: 5900 learn=0.11519 test=0.116209
+Epoch: 5910 learn=0.115172 test=0.116172
+Epoch: 5920 learn=0.115101 test=0.116123
+Epoch: 5930 learn=0.115008 test=0.116057
+Epoch: 5940 learn=0.114918 test=0.116019
+Epoch: 5950 learn=0.114847 test=0.115935
+Epoch: 5960 learn=0.114783 test=0.115825
+Epoch: 5970 learn=0.114727 test=0.11584
+Epoch: 5980 learn=0.114637 test=0.115809
+Epoch: 5990 learn=0.114539 test=0.115674
+Epoch: 5999 learn=0.114397 test=0.115614
+Training done.
+25_25hi_5000ep_1C_new_moved_random_sectorB_midwing/nnFunc_25_25hi_6000ep_weight.h and 25_25hi_5000ep_1C_new_moved_random_sectorB_midwing/nnFunc_25_25hi_6000ep_weight.cxx created.
+Network with structure: vtxx,vtxy,vtxz,vtxphi,vtxtheta:25:25:@trlen
+inputs with low values in the differences plot may not be needed
+vtxx -> 0.00876778 +/- 0.00786296
+vtxy -> 0.0577237 +/- 0.0511242
+vtxz -> 0.089101 +/- 0.0701666
+vtxphi -> 0.525203 +/- 0.398484
+vtxtheta -> 0.0373287 +/- 0.0297457
+Info in <TCanvas::Print>: png file 25_25hi_5000ep_1C_new_moved_random_sectorB_midwing/analysisweight.png has been created
+directory:_sectorB_midwing

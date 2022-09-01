@@ -1,0 +1,129 @@
+
+ Epoch: 610 learn=0.111513 test=0.109004
+Epoch: 620 learn=0.111485 test=0.108974
+Epoch: 630 learn=0.111459 test=0.108949
+Epoch: 640 learn=0.111448 test=0.108931
+Epoch: 650 learn=0.11142 test=0.108906
+Epoch: 660 learn=0.111414 test=0.108903
+Epoch: 670 learn=0.111389 test=0.108886
+Epoch: 680 learn=0.111374 test=0.108872
+Epoch: 690 learn=0.111351 test=0.108847
+Epoch: 700 learn=0.111336 test=0.108833
+Epoch: 710 learn=0.111307 test=0.108814
+Epoch: 720 learn=0.111291 test=0.108805
+Epoch: 730 learn=0.111278 test=0.108791
+Epoch: 740 learn=0.111266 test=0.108788
+Epoch: 750 learn=0.11126 test=0.108784
+Epoch: 760 learn=0.111252 test=0.108777
+Epoch: 770 learn=0.111241 test=0.108765
+Epoch: 780 learn=0.111235 test=0.108757
+Epoch: 790 learn=0.111217 test=0.108738
+Epoch: 800 learn=0.111175 test=0.108696
+Epoch: 810 learn=0.111164 test=0.108688
+Epoch: 820 learn=0.111145 test=0.108675
+Epoch: 830 learn=0.111137 test=0.108678
+Epoch: 840 learn=0.111131 test=0.108673
+Epoch: 850 learn=0.11112 test=0.108666
+Epoch: 860 learn=0.111112 test=0.108661
+Epoch: 870 learn=0.111101 test=0.108647
+Epoch: 880 learn=0.111079 test=0.10863
+Epoch: 890 learn=0.111064 test=0.108616
+Epoch: 900 learn=0.11104 test=0.108602
+Epoch: 910 learn=0.111036 test=0.108604
+Epoch: 920 learn=0.111031 test=0.108606
+Epoch: 930 learn=0.111028 test=0.108605
+Epoch: 940 learn=0.111023 test=0.108598
+Epoch: 950 learn=0.111021 test=0.108597
+Epoch: 960 learn=0.111006 test=0.108581
+Epoch: 970 learn=0.111002 test=0.108586
+Epoch: 980 learn=0.110994 test=0.108583
+Epoch: 990 learn=0.110986 test=0.108565
+Epoch: 1000 learn=0.110982 test=0.108557
+Epoch: 1010 learn=0.110979 test=0.108561
+Epoch: 1020 learn=0.110971 test=0.108561
+Epoch: 1030 learn=0.110966 test=0.10855
+Epoch: 1040 learn=0.110962 test=0.108546
+Epoch: 1050 learn=0.110957 test=0.108538
+Epoch: 1060 learn=0.110946 test=0.108534
+Epoch: 1070 learn=0.110941 test=0.108529
+Epoch: 1080 learn=0.110938 test=0.108529
+Epoch: 1090 learn=0.110935 test=0.108524
+Epoch: 1100 learn=0.110928 test=0.108513
+Epoch: 1110 learn=0.110924 test=0.108514
+Epoch: 1120 learn=0.110921 test=0.108512
+Epoch: 1130 learn=0.110915 test=0.108505
+Epoch: 1140 learn=0.110909 test=0.108497
+Epoch: 1150 learn=0.110905 test=0.108496
+Epoch: 1160 learn=0.110896 test=0.108493
+Epoch: 1170 learn=0.110893 test=0.108489
+Epoch: 1180 learn=0.110888 test=0.108482
+Epoch: 1190 learn=0.110876 test=0.108468
+Epoch: 1200 learn=0.110867 test=0.108452
+Epoch: 1210 learn=0.110855 test=0.108447
+Epoch: 1220 learn=0.110849 test=0.108443
+Epoch: 1230 learn=0.110843 test=0.108442
+Epoch: 1240 learn=0.110838 test=0.108433
+Epoch: 1250 learn=0.11083 test=0.108429
+Epoch: 1260 learn=0.110824 test=0.108425
+Epoch: 1270 learn=0.110814 test=0.108424
+Epoch: 1280 learn=0.110798 test=0.108406
+Epoch: 1290 learn=0.110791 test=0.10841
+Epoch: 1300 learn=0.110787 test=0.108401
+Epoch: 1310 learn=0.110781 test=0.108402
+Epoch: 1320 learn=0.110776 test=0.10839
+Epoch: 1330 learn=0.110765 test=0.108371
+Epoch: 1340 learn=0.110758 test=0.10836
+Epoch: 1350 learn=0.110749 test=0.108353
+Epoch: 1360 learn=0.110746 test=0.108351
+Epoch: 1370 learn=0.110728 test=0.108338
+Epoch: 1380 learn=0.110717 test=0.108324
+Epoch: 1390 learn=0.110676 test=0.108331
+Epoch: 1400 learn=0.11067 test=0.108314
+Epoch: 1410 learn=0.110664 test=0.108316
+Epoch: 1420 learn=0.110654 test=0.108297
+Epoch: 1430 learn=0.11064 test=0.108283
+Epoch: 1440 learn=0.110631 test=0.10828
+Epoch: 1450 learn=0.110624 test=0.108275
+Epoch: 1460 learn=0.110612 test=0.108264
+Epoch: 1470 learn=0.110605 test=0.108265
+Epoch: 1480 learn=0.110598 test=0.10826
+Epoch: 1490 learn=0.110593 test=0.10826
+Epoch: 1499 learn=0.110586 test=0.108251
+Training done.
+25_25hi_5000ep_1C_new_moved_random_vtxphi_2_6_sector1_downwing/nnFunc_25_25hi_1500ep__.h and 25_25hi_5000ep_1C_new_moved_random_vtxphi_2_6_sector1_downwing/nnFunc_25_25hi_1500ep__.cxx created.
+Network with structure: vtxx,vtxy,vtxz,vtxphi,vtxtheta:25:25:@trlen
+inputs with low values in the differences plot may not be needed
+vtxx -> 0.134008 +/- 0.0102395
+vtxy -> 0.00383394 +/- 0.0043739
+vtxz -> 0.000631981 +/- 0.00080551
+vtxphi -> 0.132622 +/- 0.0772384
+vtxtheta -> 0.00217182 +/- 0.00187567
+Info in <TCanvas::Print>: png file 25_25hi_5000ep_1C_new_moved_random_vtxphi_2_6_sector1_downwing/analysis_.png has been created
+directory:_vtxphi_2_6_sector1_downwing
+
+weight:
+                      │Epoch: 4900 learn=0.0889168 test=0.0879762                       
+Epoch: 4910 learn=0.0709404 test=0.0695849                       │Epoch: 4910 learn=0.088883 test=0.0879719                        
+Epoch: 4920 learn=0.0706454 test=0.0692614                       │Epoch: 4920 learn=0.088782 test=0.0879062                        
+Epoch: 4930 learn=0.070466 test=0.0691895                        │Epoch: 4930 learn=0.0886623 test=0.0878261                       
+Epoch: 4940 learn=0.070273 test=0.0688557                        │Epoch: 4940 learn=0.0885643 test=0.0877377                       
+Epoch: 4950 learn=0.0700361 test=0.0687065                       │Epoch: 4950 learn=0.0884779 test=0.0876289                       
+Epoch: 4960 learn=0.0698047 test=0.0685966                       │Epoch: 4960 learn=0.0883856 test=0.0875148                       
+Epoch: 4970 learn=0.0695128 test=0.0684201                       │Epoch: 4970 learn=0.0882771 test=0.0873449                       
+Epoch: 4980 learn=0.069317 test=0.0682312                        │Epoch: 4980 learn=0.0881687 test=0.087213                        
+Epoch: 4990 learn=0.0690963 test=0.0681008                       │Epoch: 4990 learn=0.0880563 test=0.0871145                       
+Epoch: 4999 learn=0.0688331 test=0.0678667                       │Epoch: 4999 learn=0.0877726 test=0.0868555                       
+Training done.                                                   │Training done.                                                   
+25_25hi_5000ep_1C_new_moved_random_vtxphi_2_6_sector1_upwing/nnFu│25_25hi_5000ep_1C_new_moved_random_vtxphi_2_6_sector1_downwing/nn
+nc_25_25hi_5000ep_weight.h and 25_25hi_5000ep_1C_new_moved_random│Func_25_25hi_5000ep_weight.h and 25_25hi_5000ep_1C_new_moved_rand
+_vtxphi_2_6_sector1_upwing/nnFunc_25_25hi_5000ep_weight.cxx creat│om_vtxphi_2_6_sector1_downwing/nnFunc_25_25hi_5000ep_weight.cxx c
+ed.                                                              │reated.                                                          
+Network with structure: vtxx,vtxy,vtxz,vtxphi,vtxtheta:25:25:@trl│Network with structure: vtxx,vtxy,vtxz,vtxphi,vtxtheta:25:25:@trl
+en                                                               │en                                                               
+inputs with low values in the differences plot may not be needed │inputs with low values in the differences plot may not be needed 
+vtxx -> 0.141199 +/- 0.0524997                                   │vtxx -> 0.133243 +/- 0.0259628                                   
+vtxy -> 0.00900035 +/- 0.0376893                                 │vtxy -> 0.00656313 +/- 0.0212294                                 
+vtxz -> 0.000830348 +/- 0.00570896                               │vtxz -> 0.00066711 +/- 0.00135346                                
+vtxphi -> 0.15951 +/- 0.195029                                   │vtxphi -> 0.148713 +/- 0.155526                                  
+vtxtheta -> 0.00398336 +/- 0.0132658                             │vtxtheta -> 0.00346137 +/- 0.00970936                            
+directory:_vtxphi_2_6_sector1_upwing                             │directory:_vtxphi_2_6_sector1_downwing

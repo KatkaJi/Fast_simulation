@@ -1,0 +1,171 @@
+ 
+Epoch: 2010 learn=0.217117 test=0.215272
+Epoch: 2020 learn=0.217068 test=0.215251
+Epoch: 2030 learn=0.217019 test=0.215205
+Epoch: 2040 learn=0.216956 test=0.215157
+Epoch: 2050 learn=0.216915 test=0.215169
+Epoch: 2060 learn=0.216851 test=0.215087
+Epoch: 2070 learn=0.216798 test=0.215086
+Epoch: 2080 learn=0.216756 test=0.21501
+Epoch: 2090 learn=0.216733 test=0.214973
+Epoch: 2100 learn=0.216683 test=0.214952
+Epoch: 2110 learn=0.216639 test=0.214901
+Epoch: 2120 learn=0.216602 test=0.214896
+Epoch: 2130 learn=0.216568 test=0.214841
+Epoch: 2140 learn=0.216524 test=0.214787
+Epoch: 2150 learn=0.216482 test=0.214754
+Epoch: 2160 learn=0.216452 test=0.214692
+Epoch: 2170 learn=0.216411 test=0.214638
+Epoch: 2180 learn=0.216382 test=0.214606
+Epoch: 2190 learn=0.21633 test=0.214572
+Epoch: 2200 learn=0.216247 test=0.214419
+Epoch: 2210 learn=0.216187 test=0.214455
+Epoch: 2220 learn=0.216147 test=0.214426
+Epoch: 2230 learn=0.216105 test=0.214368
+Epoch: 2240 learn=0.216073 test=0.21437
+Epoch: 2250 learn=0.216022 test=0.214353
+Epoch: 2260 learn=0.215953 test=0.214263
+Epoch: 2270 learn=0.215907 test=0.214245
+Epoch: 2280 learn=0.215822 test=0.214253
+Epoch: 2290 learn=0.215741 test=0.214214
+Epoch: 2300 learn=0.215655 test=0.214064
+Epoch: 2310 learn=0.215561 test=0.213958
+Epoch: 2320 learn=0.215441 test=0.213803
+Epoch: 2330 learn=0.215392 test=0.21378
+Epoch: 2340 learn=0.215335 test=0.213696
+Epoch: 2350 learn=0.215296 test=0.213596
+Epoch: 2360 learn=0.215249 test=0.213569
+Epoch: 2370 learn=0.21521 test=0.213521
+Epoch: 2380 learn=0.21517 test=0.213453
+Epoch: 2390 learn=0.215135 test=0.2134
+Epoch: 2400 learn=0.215088 test=0.213383
+Epoch: 2410 learn=0.215065 test=0.213375
+Epoch: 2420 learn=0.215032 test=0.213382
+Epoch: 2430 learn=0.214997 test=0.213355
+Epoch: 2440 learn=0.214972 test=0.213325
+Epoch: 2450 learn=0.214935 test=0.21332
+Epoch: 2460 learn=0.214869 test=0.213303
+Epoch: 2470 learn=0.214774 test=0.213331
+Epoch: 2480 learn=0.214703 test=0.213253
+Epoch: 2490 learn=0.214613 test=0.213098
+Epoch: 2500 learn=0.214481 test=0.212944
+Epoch: 2510 learn=0.214432 test=0.212883
+Epoch: 2520 learn=0.214363 test=0.212913
+Epoch: 2530 learn=0.214299 test=0.212812
+Epoch: 2540 learn=0.214212 test=0.212643
+Epoch: 2550 learn=0.214146 test=0.212511
+Epoch: 2560 learn=0.214087 test=0.212463
+Epoch: 2570 learn=0.214054 test=0.212467
+Epoch: 2580 learn=0.214004 test=0.212419
+Epoch: 2590 learn=0.213927 test=0.212359
+Epoch: 2600 learn=0.213874 test=0.212358
+Epoch: 2610 learn=0.213839 test=0.212331
+Epoch: 2620 learn=0.213799 test=0.212294
+Epoch: 2630 learn=0.213771 test=0.212288
+Epoch: 2640 learn=0.213735 test=0.212198
+Epoch: 2650 learn=0.21369 test=0.212146
+Epoch: 2660 learn=0.213607 test=0.212129
+Epoch: 2670 learn=0.213521 test=0.212004
+Epoch: 2680 learn=0.213445 test=0.211982
+Epoch: 2690 learn=0.213325 test=0.211732
+Epoch: 2700 learn=0.213202 test=0.211659
+Epoch: 2710 learn=0.21317 test=0.211609
+Epoch: 2720 learn=0.213117 test=0.211631
+Epoch: 2730 learn=0.213064 test=0.211562
+Epoch: 2740 learn=0.213013 test=0.211479
+Epoch: 2750 learn=0.212954 test=0.211489
+Epoch: 2760 learn=0.212904 test=0.211507
+Epoch: 2770 learn=0.212854 test=0.211425
+Epoch: 2780 learn=0.212811 test=0.211429
+Epoch: 2790 learn=0.212769 test=0.211375
+Epoch: 2800 learn=0.212713 test=0.211397
+Epoch: 2810 learn=0.212673 test=0.21131
+Epoch: 2820 learn=0.212645 test=0.21124
+Epoch: 2830 learn=0.212623 test=0.2112
+Epoch: 2840 learn=0.212582 test=0.211185
+Epoch: 2850 learn=0.212544 test=0.211106
+Epoch: 2860 learn=0.212487 test=0.211019
+Epoch: 2870 learn=0.212413 test=0.21092
+Epoch: 2880 learn=0.212229 test=0.21064
+Epoch: 2890 learn=0.21214 test=0.210577
+Epoch: 2900 learn=0.211848 test=0.210339
+Epoch: 2910 learn=0.211758 test=0.210249
+Epoch: 2920 learn=0.211657 test=0.210146
+Epoch: 2930 learn=0.21155 test=0.210153
+Epoch: 2940 learn=0.211479 test=0.210059
+Epoch: 2950 learn=0.211413 test=0.209975
+Epoch: 2960 learn=0.211383 test=0.209994
+Epoch: 2970 learn=0.21134 test=0.209916
+Epoch: 2980 learn=0.211272 test=0.209916
+Epoch: 2990 learn=0.211198 test=0.209914
+Epoch: 2999 learn=0.211048 test=0.209714
+Training done.
+25_25hi_5000ep_1C_new_moved_random_sectorA_midwing/nnFunc_25_25hi_3000ep__.h and 25_25hi_5000ep_1C_new_moved_random_sectorA_midwing/nnFunc_25_25hi_3000ep__.cxx created.
+Network with structure: vtxx,vtxy,vtxz,vtxphi,vtxtheta:25:25:@trlen
+inputs with low values in the differences plot may not be needed
+vtxx -> 0.00892647 +/- 0.0157052
+vtxy -> 0.0371771 +/- 0.128099
+vtxz -> 0.0798548 +/- 0.135982
+vtxphi -> 0.420128 +/- 0.563477
+vtxtheta -> 0.0191939 +/- 0.0599487
+Info in <TCanvas::Print>: png file 25_25hi_5000ep_1C_new_moved_random_sectorA_midwing/analysis_.png has been created
+directory:_sectorA_midwing
+
+weight;
+Epoch: 6550 learn=0.12964 test=0.128984
+Epoch: 6560 learn=0.129545 test=0.128849
+Epoch: 6570 learn=0.129493 test=0.128808
+Epoch: 6580 learn=0.12941 test=0.128783
+Epoch: 6590 learn=0.129326 test=0.128658
+Epoch: 6600 learn=0.129207 test=0.12862
+Epoch: 6610 learn=0.129182 test=0.128605
+Epoch: 6620 learn=0.129136 test=0.128532
+Epoch: 6630 learn=0.129086 test=0.128455
+Epoch: 6640 learn=0.129026 test=0.12844
+Epoch: 6650 learn=0.128959 test=0.128279
+Epoch: 6660 learn=0.128879 test=0.128222
+Epoch: 6670 learn=0.128768 test=0.12811
+Epoch: 6680 learn=0.128654 test=0.128062
+Epoch: 6690 learn=0.128509 test=0.12798
+Epoch: 6700 learn=0.128339 test=0.127858
+Epoch: 6710 learn=0.128279 test=0.127752
+Epoch: 6720 learn=0.12822 test=0.127718
+Epoch: 6730 learn=0.128126 test=0.127601
+Epoch: 6740 learn=0.128048 test=0.127442
+Epoch: 6750 learn=0.12796 test=0.127343
+Epoch: 6760 learn=0.127865 test=0.127215
+Epoch: 6770 learn=0.127781 test=0.127189
+Epoch: 6780 learn=0.127692 test=0.127124
+Epoch: 6790 learn=0.127603 test=0.127081
+Epoch: 6800 learn=0.127489 test=0.126949
+Epoch: 6810 learn=0.127473 test=0.126952
+Epoch: 6820 learn=0.127425 test=0.126905
+Epoch: 6830 learn=0.127354 test=0.126816
+Epoch: 6840 learn=0.127284 test=0.126722
+Epoch: 6850 learn=0.127202 test=0.126599
+Epoch: 6860 learn=0.127119 test=0.126516
+Epoch: 6870 learn=0.127035 test=0.126485
+Epoch: 6880 learn=0.126932 test=0.126453
+Epoch: 6890 learn=0.126814 test=0.126465
+Epoch: 6900 learn=0.126568 test=0.126143
+Epoch: 6910 learn=0.126542 test=0.126125
+Epoch: 6920 learn=0.126415 test=0.126112
+Epoch: 6930 learn=0.126293 test=0.125921
+Epoch: 6940 learn=0.126207 test=0.125833
+Epoch: 6950 learn=0.126104 test=0.125673
+Epoch: 6960 learn=0.126021 test=0.125604
+Epoch: 6970 learn=0.125939 test=0.125428
+Epoch: 6980 learn=0.125844 test=0.125353
+Epoch: 6990 learn=0.125756 test=0.125285
+Epoch: 6999 learn=0.125675 test=0.125241
+Training done.
+25_25hi_5000ep_1C_new_moved_random_sectorA_midwing/nnFunc_25_25hi_7000ep_weight.h and 25_25hi_5000ep_1C_new_moved_random_sectorA_midwing/nnFunc_25_25hi_7000ep_weight.cxx created.
+Network with structure: vtxx,vtxy,vtxz,vtxphi,vtxtheta:25:25:@trlen
+inputs with low values in the differences plot may not be needed
+vtxx -> 0.00995908 +/- 0.017735
+vtxy -> 0.0752114 +/- 0.144401
+vtxz -> 0.0975435 +/- 0.168092
+vtxphi -> 0.67385 +/- 0.606992
+vtxtheta -> 0.0459872 +/- 0.0695716
+Info in <TCanvas::Print>: png file 25_25hi_5000ep_1C_new_moved_random_sectorA_midwing/analysisweight.png has been created
+directory:_sectorA_midwing

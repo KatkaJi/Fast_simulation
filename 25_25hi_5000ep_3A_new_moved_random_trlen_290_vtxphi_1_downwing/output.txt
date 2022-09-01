@@ -1,0 +1,28 @@
+ 
+Epoch: 2890 learn=0.105887 test=0.106129                         │Epoch: 3590 learn=0.094042 test=0.094305                         
+Epoch: 2900 learn=0.10587 test=0.106109                          │Epoch: 3600 learn=0.0940034 test=0.0942566                       
+Epoch: 2910 learn=0.105865 test=0.1061                           │Epoch: 3610 learn=0.093985 test=0.0942404                        
+Epoch: 2920 learn=0.105856 test=0.106091                         │Epoch: 3620 learn=0.0939569 test=0.094239                        
+Epoch: 2930 learn=0.105845 test=0.106073                         │Epoch: 3630 learn=0.0939323 test=0.094203                        
+Epoch: 2940 learn=0.105835 test=0.106073                         │Epoch: 3640 learn=0.0939038 test=0.0941399                       
+Epoch: 2950 learn=0.105825 test=0.106069                         │Epoch: 3650 learn=0.0938712 test=0.094117                        
+Epoch: 2960 learn=0.105815 test=0.106061                         │Epoch: 3660 learn=0.0938311 test=0.094106                        
+Epoch: 2970 learn=0.105797 test=0.106042                         │Epoch: 3670 learn=0.0937923 test=0.0940464                       
+Epoch: 2980 learn=0.105787 test=0.10603                          │Epoch: 3680 learn=0.0937523 test=0.0939954                       
+Epoch: 2990 learn=0.105772 test=0.106018                         │Epoch: 3690 learn=0.0936947 test=0.0939224                       
+Epoch: 2999 learn=0.105739 test=0.10599                          │Epoch: 3700 learn=0.0936114 test=0.0938269                       
+Training done.                                                   │Epoch: 3710 learn=0.0935744 test=0.0937887                       
+25_25hi_5000ep_3A_new_moved_random_trlen_290_vtxphi_1_downwing/nn│Epoch: 3720 learn=0.0935191 test=0.0937534                       
+Func_25_25hi_3000ep__.h and 25_25hi_5000ep_3A_new_moved_random_tr│Epoch: 3730 learn=0.0934776 test=0.0937209                       
+len_290_vtxphi_1_downwing/nnFunc_25_25hi_3000ep__.cxx created.   │Epoch: 3740 learn=0.0934464 test=0.0937017                       
+Network with structure: vtxx,vtxy,vtxz,vtxphi,vtxtheta:25:25:@trl│Epoch: 3750 learn=0.0934133 test=0.0936743                       
+en                                                               │Epoch: 3760 learn=0.093377 test=0.093653                         
+inputs with low values in the differences plot may not be needed │Epoch: 3770 learn=0.0933492 test=0.093602                        
+vtxx -> 0.0403547 +/- 0.175529                                   │Epoch: 3780 learn=0.0933191 test=0.0936049                       
+vtxy -> 0.000890835 +/- 0.00118263                               │Epoch: 3790 learn=0.093288 test=0.0935806                        
+vtxz -> 0.0115054 +/- 0.0640188                                  │Epoch: 3800 learn=0.0932573 test=0.093552                        
+vtxphi -> 0.220461 +/- 0.287528                                  │Epoch: 3810 learn=0.0932427 test=0.0935395                       
+vtxtheta -> 0.00303249 +/- 0.00521336                            │Epoch: 3820 learn=0.0932237 test=0.0935231                       
+directory:_trlen_290_vtxphi_1_downwing
+
+weight:
