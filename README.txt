@@ -60,4 +60,4 @@ Author and contact
 ------------------
 Katerina Jirakova
 Palacky University Olomouc and Joint Laboratory of Optics
-e-mail: katerina.jirakova@cern.ch  or  katerina.jirakova01@upol.cz
+e-mail: katerina.jirakova@upol.cz  or  katkajirakova.kj@gmail.com
